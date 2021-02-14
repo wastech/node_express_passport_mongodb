@@ -2,4 +2,4 @@
 
 Simple, unobtrusive authentication for Node.js
 
-h3 [nodejs(https://nodejs.org)] As an asynchronous event-driven JavaScript runtime, Node.js is designed to build scalable network applications
+h3 [nodejs](https://nodejs.org) As an asynchronous event-driven JavaScript runtime, Node.js is designed to build scalable network applications
